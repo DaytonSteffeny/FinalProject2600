@@ -31,7 +31,7 @@ Git and GitHub Using the Command Line, 32:15
 ## Add a feature to an application
 
 
-Create a branch for the feature.
+**Create a branch for the feature.**
 
 
   _git branch feature/<feature_descriptor>_
@@ -39,7 +39,7 @@ Create a branch for the feature.
   _git checkout feature/<feature_descriptor>_
 
 
-Write and test the code for the feature. Remember to commit and push often during the development of the feature (see below).
+**Write and test the code for the feature. Remember to commit and push often during the development of the feature (see below).**
  
  
  _git add ._
@@ -49,7 +49,7 @@ Write and test the code for the feature. Remember to commit and push often durin
   _git push -u origin feature/<feature_descriptor>_
      
      
-When the feature is complete, merge it into the master branch.
+**When the feature is complete, merge it into the master branch.**
  
  
  _git checkout master_
@@ -61,7 +61,7 @@ When the feature is complete, merge it into the master branch.
 
 ## Fix a bug
 
-Create a branch for the bug fix.
+**Create a branch for the bug fix.**
 
 
   _git branch bugfix/<bug_descriptor>_
@@ -69,7 +69,7 @@ Create a branch for the bug fix.
   _git checkout bugfix/<bug_descriptor>_
   
   
-Fix the bug and test the code. Remember to commit and push often during the coding of the bug fix (see below).
+**Fix the bug and test the code. Remember to commit and push often during the coding of the bug fix (see below).**
   
   
   _git add ._
@@ -79,7 +79,7 @@ Fix the bug and test the code. Remember to commit and push often during the codi
   _git push -u origin bugfix/<bug_descriptor>_
   
   
-When the bug fix is complete, merge it into the master branch.
+**When the bug fix is complete, merge it into the master branch.**
   
   
   _git checkout master_
