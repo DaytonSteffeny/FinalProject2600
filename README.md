@@ -5,8 +5,8 @@ This project provides experience working with markdown, Git/GitHub, and digital 
 
 Author: Dayton Steffeny
 
-Summary: Uploading a digital picture to instagram
+Summary: How to create a GitHub account
 
-Target Audience: Those who have never used instagram before or beginners with no experience working with digital devices.
+Target Audience: Those who have never used GitHub before
 
 
