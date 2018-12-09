@@ -1,7 +1,7 @@
 Start off by going to  [GitHub](https://github.com)
 
 Create an account using your email.
-![login](https://github.com/DaytonSteffeny/FinalProject2600/CreateAccount.png)
+![login](https://github.com/DaytonSteffeny/FinalProject2600/blob/master/CreateAccount.png)
 
 ***
 Pick free account plan and then click continue.
