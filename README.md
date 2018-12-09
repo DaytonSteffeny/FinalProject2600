@@ -11,4 +11,4 @@ Target Audience: Those who have never used GitHub before
 
 
 Select this link to learn how to create a [GitHub Account]
-https://github.com/DaytonSteffeny/FinalProject2600/CreateAccount.png
+(https://github.com/DaytonSteffeny/FinalProject2600/blob/master/GitHubTutorial.md)
