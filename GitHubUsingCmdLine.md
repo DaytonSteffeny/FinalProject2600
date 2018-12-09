@@ -1,12 +1,12 @@
-##Git and GitHub Using Command Line - Condensed
+## Git and GitHub Using Command Line - Condensed
 
 This document presents Git and GitHub using the command line in a condensed format. The following video demonstrates the 
 
 process.
 Git and GitHub Using the Command Line, 32:15
-**Create a local project directory with files in it**
-**Create a repository on GitHub with README and .gitignore (with .DS_Store added)**
-**Setup local repository**
+## Create a local project directory with files in it
+## Create a repository on GitHub with README and .gitignore (with .DS_Store added)
+## Setup local repository
   _git init_
   _git add ._
   _git commit -m "First commit"_
@@ -16,7 +16,7 @@ Git and GitHub Using the Command Line, 32:15
   _git add ._
   _git commit -m "Applied .gitignore"_
   _git push -u origin master_
-**Add a feature to an application**
+## Add a feature to an application
 Create a branch for the feature.
   _git branch feature/<feature_descriptor>_
   _git checkout feature/<feature_descriptor>_
@@ -30,7 +30,7 @@ When the feature is complete, merge it into the master branch.
   _git merge feature/<feature_descriptor>_
   _git push -u origin master_
 
-**Fix a bug**
+## Fix a bug
 Create a branch for the bug fix.
   _git branch bugfix/<bug_descriptor>_
   _git checkout bugfix/<bug_descriptor>_
