@@ -2,7 +2,7 @@
 
 This document presents Git and GitHub using the command line in a condensed format. The following video demonstrates the process.
 
-Git and GitHub Using the Command Line, 32:15 [Professor Musser's How to Video](https://www.youtube.com/watch?v=ZdyeVhBn0Yw&feature=youtu.be)
+Git and GitHub Using the Command Line, 32:15- [Professor Musser's How to Video](https://www.youtube.com/watch?v=ZdyeVhBn0Yw&feature=youtu.be)
 
 **Create a local project directory with files in it**
 **Create a repository on GitHub with README and .gitignore (with .DS_Store added)**
