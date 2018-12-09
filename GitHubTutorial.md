@@ -13,7 +13,7 @@ Decide what you are going to use this GitHub account for and what kind of progra
 
 ***
 Decide what you are going to use this GitHub account for and what kind of programmer you are.
-![login](https://github.com/DaytonSteffeny/FinalProject2600/blob/master/users.png)
+![login](https://github.com/DaytonSteffeny/FinalProject2600/blob/master/uses.png)
 
 ***
 Then click "Start a project", you will have to confirm the email that GitHub sent to your email before you can start.
