@@ -9,13 +9,21 @@ Git and GitHub Using the Command Line, 32:15
 **Setup local repository**
 
   _git init_
+  
   _git add ._
+  
   _git commit -m "First commit"_
+  
   _git remote add origin <GitHub_remote_repository_clone_https_url>_
+  
   _git pull --rebase origin master_
+  
   _git rm -r --cached ._
+  
   _git add ._
+  
   _git commit -m "Applied .gitignore"_
+  
   _git push -u origin master_
   
 ## Add a feature to an application
