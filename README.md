@@ -7,7 +7,7 @@ This project provides experience working with markdown, Git/GitHub, and digital 
 
 **Summary:** How to create a GitHub account
 
-**Target Audience:** Those who have never used GitHub before
+**Target Viewers:** Those who have never used GitHub before
 
 
 Select this link to learn how to create a [GitHub Account](https://github.com/DaytonSteffeny/FinalProject2600/blob/master/GitHubTutorial.md)
