@@ -1,7 +1,7 @@
 # FinalProject2600
 This project provides experience working with markdown, Git/GitHub, and digital concepts.
 
-### Final Project Tutorial
+### How to Create a GitHub Account Tutorial
 
 **Author:** Dayton Steffeny
 
